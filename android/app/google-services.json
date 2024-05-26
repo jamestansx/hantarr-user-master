@@ -1,0 +1,268 @@
+{
+  "project_info": {
+    "project_number": "254489337322",
+    "firebase_url": "https://str8-4b828.firebaseio.com",
+    "project_id": "str8-4b828",
+    "storage_bucket": "str8-4b828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254489337322:android:79aa640a6f7fffbb",
+        "android_client_info": {
+          "package_name": "com.example.str8_membership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254489337322-j3um2elnbvea31jpuj1bpe2mk8urn5e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.str8_membership",
+            "certificate_hash": "ef5d26fa562e265cb70b089aa66c2aa666ee72d9"
+          }
+        },
+        {
+          "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYJqB96nxJqzXphkovQJNZAsRjflghBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254489337322-uqh4jfgtdqhud7pjkm8tj340ctt1nra9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hantarr.rider",
+                "app_store_id": "1532354459"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254489337322:android:61a150bde31877dee72693",
+        "android_client_info": {
+          "package_name": "com.hantarr.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYJqB96nxJqzXphkovQJNZAsRjflghBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254489337322-uqh4jfgtdqhud7pjkm8tj340ctt1nra9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hantarr.rider",
+                "app_store_id": "1532354459"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254489337322:android:b5155972d51d4b9ce72693",
+        "android_client_info": {
+          "package_name": "com.resertech.hantarr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254489337322-ae6vagrjouaf5rvc1teo4vcaaubh945d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.hantarr",
+            "certificate_hash": "e1022d0aa8d148da9bbed9accc01dbfcd91e7e55"
+          }
+        },
+        {
+          "client_id": "254489337322-tf8eon7seg8a8htf07be8q26qdfblrc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.hantarr",
+            "certificate_hash": "31f71ec34b04a5fbb15480e9eea9f46b01fa2120"
+          }
+        },
+        {
+          "client_id": "254489337322-cfi2lh9re9rap8vcp862kagepje0kkf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.hantarr",
+            "certificate_hash": "901e3cdb51a0354174ef989ad7bf95258671b5f3"
+          }
+        },
+        {
+          "client_id": "254489337322-s1he9oclua7a335nfb3u4utue25gth2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.hantarr",
+            "certificate_hash": "ef5d26fa562e265cb70b089aa66c2aa666ee72d9"
+          }
+        },
+        {
+          "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYJqB96nxJqzXphkovQJNZAsRjflghBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254489337322-uqh4jfgtdqhud7pjkm8tj340ctt1nra9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hantarr.rider",
+                "app_store_id": "1532354459"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254489337322:android:95f57622dac86ef5e72693",
+        "android_client_info": {
+          "package_name": "com.resertech.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYJqB96nxJqzXphkovQJNZAsRjflghBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254489337322-uqh4jfgtdqhud7pjkm8tj340ctt1nra9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hantarr.rider",
+                "app_store_id": "1532354459"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254489337322:android:58102ff01b6857bde72693",
+        "android_client_info": {
+          "package_name": "com.resertech.str8_membership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254489337322-2dm1566imtj16paithld5ol1ovpivjgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.str8_membership",
+            "certificate_hash": "ef5d26fa562e265cb70b089aa66c2aa666ee72d9"
+          }
+        },
+        {
+          "client_id": "254489337322-99o9d50b27st4krtcuup257jb5m61u85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.str8_membership",
+            "certificate_hash": "4de0831423ee38299ec776063ab5196226367569"
+          }
+        },
+        {
+          "client_id": "254489337322-57fjsmlm9cf9svkib5gq1gfmndufojd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.str8_membership",
+            "certificate_hash": "61766d20c76a9d78362735b65513399b8f62af52"
+          }
+        },
+        {
+          "client_id": "254489337322-3e1j6bais19dd1cgi0aqi581ou9u2lqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resertech.str8_membership",
+            "certificate_hash": "be27c80c6b7329ee8ff3344bd94cc25f39132fa3"
+          }
+        },
+        {
+          "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYJqB96nxJqzXphkovQJNZAsRjflghBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254489337322-i3qd8dlqd14u9k7on0qss4ein3hbg281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254489337322-uqh4jfgtdqhud7pjkm8tj340ctt1nra9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hantarr.rider",
+                "app_store_id": "1532354459"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
