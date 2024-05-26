@@ -18,7 +18,7 @@ import 'package:hantarr/root_page_repo/modules/user_module.dart';
 
 class HantarrState {
   bool loginStatus;
-  hantarrUser.User user;
+  hantarrUser.User? user;
   List<Restaurant> allRestaurants;
   List<ZoneDetail> zoneDetailList;
   List<Delivery> allDeliveries;
@@ -26,8 +26,8 @@ class HantarrState {
   final FlutterSecureStorage storage;
   DateTime serverTime;
   FirebaseMessaging fcm;
-  FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
-  NotificationDetails notificationDetails;
+  FlutterLocalNotificationsPlugin? flutterLocalNotificationsPlugin;
+  NotificationDetails? notificationDetails;
   String versionName;
   // -----  new   ---- //
   HantarrUser hUser;
@@ -40,11 +40,11 @@ class HantarrState {
   List<P2pTransaction> p2pPendingOrders;
   //  -- new food delivery repo - //
   List<NewRestaurant> newRestaurantList;
-  LatLng selectedLocation;
+  LatLng? selectedLocation;
   FoodCart foodCart;
-  LatLng currentLocation;
+  LatLng? currentLocation;
   List<NewFoodDelivery> pendingFoodOrders;
-  FirebaseApp app;
+  FirebaseApp? app;
   List<NewFoodDelivery> allFoodOrders;
   bool p2pVehicleLoaded;
   List<NewRestaurant> allrestList;
@@ -55,40 +55,40 @@ class HantarrState {
   StreamController<String> streamController;
 
   HantarrState({
-    this.loginStatus,
-    this.user,
-    this.allRestaurants,
-    this.zoneDetailList,
-    this.allDeliveries,
-    this.translation,
-    this.storage,
-    this.serverTime,
-    this.fcm,
-    this.flutterLocalNotificationsPlugin,
-    this.notificationDetails,
-    this.versionName,
-    this.hUser,
-    this.addressList,
-    this.vehicleList,
-    this.p2pHistoryList,
-    this.p2pStatusCodes,
-    this.topUpList,
-    this.pendingOrders,
-    this.p2pPendingOrders,
-    this.newRestaurantList,
-    this.selectedLocation,
-    this.foodCart,
-    this.currentLocation,
-    this.pendingFoodOrders,
-    this.app,
-    this.allFoodOrders,
-    this.p2pVehicleLoaded,
-    this.allrestList,
-    this.advertisements,
-    this.showedAds,
-    this.foodCheckoutPageLoading,
-    this.foodCheckoutErrorMsg,
-    this.streamController,
+    required this.loginStatus,
+    required this.user,
+    required this.allRestaurants,
+    required this.zoneDetailList,
+    required this.allDeliveries,
+    required this.translation,
+    required this.storage,
+    required this.serverTime,
+    required this.fcm,
+    required this.flutterLocalNotificationsPlugin,
+    required this.notificationDetails,
+    required this.versionName,
+    required this.hUser,
+    required this.addressList,
+    required this.vehicleList,
+    required this.p2pHistoryList,
+    required this.p2pStatusCodes,
+    required this.topUpList,
+    required this.pendingOrders,
+    required this.p2pPendingOrders,
+    required this.newRestaurantList,
+    required this.selectedLocation,
+    required this.foodCart,
+    required this.currentLocation,
+    required this.pendingFoodOrders,
+    required this.app,
+    required this.allFoodOrders,
+    required this.p2pVehicleLoaded,
+    required this.allrestList,
+    required this.advertisements,
+    required this.showedAds,
+    required this.foodCheckoutPageLoading,
+    required this.foodCheckoutErrorMsg,
+    required this.streamController,
   });
 
   factory HantarrState.initial() {
